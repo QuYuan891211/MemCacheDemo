@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="memClientLibs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/memClientLibs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/memClientLibs" recursive="false" />
+  </library>
+</component>
